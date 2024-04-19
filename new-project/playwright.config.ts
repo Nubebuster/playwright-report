@@ -72,7 +72,7 @@ export default defineConfig({
 
   /* Run your local dev server before starting the tests */
   // webServer: {
-  //   command: "cd ../vite-project && npm run dev",
+  //   command: "cd ../vite-project && npm i && npm run dev",
   //   url: "http://127.0.0.1:5173",
   //   reuseExistingServer: !process.env.CI,
   // },
